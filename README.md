@@ -1,4 +1,4 @@
-# ThinkpadTwist-Touchpad-Fix
+# Thinkpad Twist Touchpad Fix
 A way to fix touchpad problem to Lenovo Thinkpad Twist laptops.
 
 
