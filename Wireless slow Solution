@@ -1,0 +1,10 @@
+
+That solution was created when I had problems with my Wireless connection using Manjaro and iwlwifi, WiFi was worked terrible and so slow (fast.com give me 900kps / 1.2mbps, after next "tricks" fast.com give me 8.9mbps / 9.9mbps).
+
+Before this, I have to say that Manjaro Configure manager help me to install open source network drivers, so, this is step number "zero".
+
+1. In terminal write next command:
+    sudo nano /etc/modprobe.d/iwlwifi.conf
+
+2. Next step, you must write:
+    options iwlwifi bt_coex_active=0
