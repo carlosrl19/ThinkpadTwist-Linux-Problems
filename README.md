@@ -24,7 +24,10 @@ A way to fix touchpad problem to Lenovo Thinkpad Twist laptops.
 5. Save the file and exit gedit.
 
 6. Run the following command in terminal:
-sudo update-grub
+
+```bash
+  sudo update-grub
+```
 
 7. Let the grub.conf file get recreated, and then restart.
 
