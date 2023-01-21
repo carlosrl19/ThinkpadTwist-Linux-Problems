@@ -13,7 +13,7 @@ A way to fix touchpad problem to Lenovo Thinkpad Twist laptops.
 
 3. Add this into the parameters:
 
-    i8042.nomux=1 locale=fr_FR i8042.reset
+    i8042.nomux=1 locale=es_ES i8042.reset
 
 4. The final line should look like this:
 
